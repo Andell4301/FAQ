@@ -25,7 +25,7 @@ Each quest will tell you the following information:
   - **ID**
   - **Name**
   - **Spot** (node, or location on a map in game)
-  - **Phases** (the different arrows on a quest, such as 17-1, 17-2, 17-3 etc.) 
+  - **Phases** (the different arrows or parts to a quest, such as 1-1, 1-2, 1-3 etc.) 
   - **Completion Reward** (if applicable)
   - **Scripts** (any story sections that the quest has)
   
@@ -53,7 +53,8 @@ An example quest to look at is <b><a href="https://apps.atlasacademy.io/db/JP/qu
  - **Opening** and **Closing** times (in your local time)
  - **Individuality** (whether it is a sun field, city field, a specific event field, etc.)
 
-For a quest with multiple phases (arrows on the quest in game), you can navigate between them using the arrows or numbers in the **Phases** row.
+
+Many quests have multiple phases, or parts to the quest. These are seen as 1-1, 1-2, 1-3, etc. in game, with each piece being its own phase. For quests with multiple phases, you can navigate between them using the arrows or numbers in the **Phases** row.
   
 ![image](https://user-images.githubusercontent.com/56235026/138540802-43b9a15a-d17b-4788-abae-43cae51d0bf4.png)
 
@@ -96,7 +97,7 @@ Beneath the general information will be any point ladders, shops, or lotteries i
   
 ![image](https://user-images.githubusercontent.com/56235026/138547444-9b1d89eb-bd0d-4bd3-900e-afcd36ab1b2f.png)
   
-Once you have enabled planner mode, you have several options. You can utilize the **Quick Toggles** in order to instantly select or deselect all items, and you can also filter out commonly excluded items from the calculated totals, such as gems, monuments, or pieces. In addition to the Quick Toggles, you can also individually select items that you want. The two rightmost columns for each item are **Limit** and **Target**. **Limit** refers to the maximum amount of an item that can be purchased, while **Target** allows you to indicate how many of that item you wish to purchase. For each item you set with **Target**, the total cost of that item is added to the cost bar above the shop. In the image below, you will see that two "Purely Bloom" craft essences which cost 100 Vacuum Tubes each have been selected via the **Target** column, and the total cost of 300 Vacuum Tubes is represented in the cost bar.
+Once you have enabled planner mode, you have several options. You can utilize the **Quick Toggles** in order to instantly select or deselect all items, and you can also filter out commonly excluded items from the calculated totals, such as gems, monuments, or pieces. In addition to the Quick Toggles, you can also individually select items that you want. The two rightmost columns for each item are **Limit** and **Target**. Limit refers to the maximum amount of an item that can be purchased, while Target allows you to indicate how many of that item you wish to purchase. For each item you set with Target, the total cost of that item is added to the cost bar above the shop. In the image below, you will see that two "Purely Bloom" craft essences which cost 150 Vacuum Tubes each have been selected via the Target column, and the total cost of 300 Vacuum Tubes is represented in the cost bar.
 
 ![image](https://user-images.githubusercontent.com/56235026/138547566-16444839-a034-49cd-9c27-742b61cdc28f.png)
 
