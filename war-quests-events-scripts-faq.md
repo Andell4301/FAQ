@@ -75,6 +75,12 @@ You may also see a **Field AI** before the enemies. This refers to effects tied 
 </details>
 
 <details>
+  <summary><b>Where can I find Hunting Quests / Trial Quests?</b></summary>
+Hunting and Trial quests can be found in <b><a href="https://apps.atlasacademy.io/db/JP/war/9999" title="War 9999: Chaldea Gate">War 9999: Chaldea Gate</a></b>.
+</details>
+
+
+<details>
   <summary><b>What is an Event / How are Events and Wars Different?</b></summary>
 As noted in the Wars section, Events and Wars, while sometimes sounding similar, are very different things. If one thinks of Saber Wars for an example, there are 
 two separate components: the <b><a href="https://apps.atlasacademy.io/db/NA/war/8095" title="War">War</a></b>, or the actual Saber Wars map with nodes and quests on it, and the <b><a href="https://apps.atlasacademy.io/db/NA/event/80008" title="Event">Event</a></b> behind it. The event is where you can find information like the lottery, point ladder, or shop tied to an in-game event. Note that some events may not have these, such as a 1/2 AP or bonus FP event.
@@ -132,9 +138,4 @@ If you know what quest your script comes from, you can either utilize the <b><a 
   <b><a href="https://apps.atlasacademy.io/db/JP/wars" title="Wars">Wars</a></b> page to navigate to the quest you have in mind. There, for each phase of the quest, you can see which scripts are 
 available and when they play in the quest beneath the general quest information. Use the phase row to navigate between phases.
 </details>
-</details>
-
-<details>
-  <summary><b>Where can I find Hunting Quests / Trial Quests?</b></summary>
-Hunting and Trial quests can be found in <b><a href="https://apps.atlasacademy.io/db/JP/war/9999" title="War 9999: Chaldea Gate">War 9999: Chaldea Gate</a></b>.
 </details>
