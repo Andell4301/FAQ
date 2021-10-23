@@ -13,8 +13,16 @@ and its background **Music**. You will also see buttons for the war's data itsel
 ![image](https://user-images.githubusercontent.com/56235026/138537916-685b80e0-daa5-4cca-bdb4-6208b6cac6fd.png)
 
 Beneath the war's general information you will find the main quests associated with the war, if any. 
-Each quest will tell you its **Section**, which is the chapter in game, **ID**, **Name**, **Spot** (its Node or Map Location), **Phases** (the arrows on the quest), 
-**Completion Reward** if there is one, and finally **Scripts**, or any dialogue sections the quest has. Clicking on the quest's ID or name will take you to that quest's page, and clicking on any individual phases will take you directly to that phase of the quest. If a phase has a dragon symbol, tha phase has enemie. A book symbol indicates a 
+Each quest will tell you the following information:
+  - **Section** (Chapter in game)
+  - **ID**
+  - **Name**
+  - **Spot** (Node, or location on a Map in game)
+  - **Phases** (The different arrows on a quest, such as 17-1, 17-2, 17-3 etc.) 
+  - **Completion Reward** (If applicable)
+  - **Scripts** (Any dialogue sections the quest has)
+  
+ Clicking on the quest's ID or name will take you to that quest's page, and clicking on any individual phases will take you directly to that phase of the quest. If a phase has a dragon symbol, tha phase has enemie. A book symbol indicates a 
 dialogue only phase.
 ![image](https://user-images.githubusercontent.com/56235026/138538211-d363af2b-7c0b-44d1-ae9d-5dd8810eef64.png)
 
