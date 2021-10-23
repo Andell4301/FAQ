@@ -117,7 +117,7 @@ You can find the <b><a href="https://apps.atlasacademy.io/db/NA/scripts" title="
 ![image](https://user-images.githubusercontent.com/56235026/138543101-982c6cc5-d4b7-4ca3-b7eb-8ca4f7eb3d9e.png)
 This page allows you to search through the contents of all the scripts in the game to find the one you are looking for. Make sure to pay attention to the search syntax 
 listed on the page to refine your searches.
-**Note: Make sure you are using the proper region. You cannot search a script using English on the JP page and vice versa.**
+**Please keep in mind which region you are using the script page on. You cannot search a script using English on the JP page and vice versa.**
 </details>
 <details>
 <summary><b>Method 2) Via the Wars Page</b></summary>
